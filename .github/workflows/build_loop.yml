@@ -43,7 +43,7 @@ jobs:
           dexcom_upload_readings \
           future_carbs_4h \
           high_carb_limit \
-          no_auth \
+          algorithm_experiments \
           testflight_expiration_warning
 
           # the final customization listed above CANNOT have a continuation character "\"
